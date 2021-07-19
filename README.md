@@ -16,4 +16,8 @@ THEN I find that the app uses Redux instead of the Context API
 
 ## Example
 
-![alt text](https://github.com/MichelleHirano/MERN-books/blob/c9a474d514f1c83980ca548ef9f0bd88b3ed63e9/Develop/examples/mern-search.gif)
+![alt text](https://github.com/MichelleHirano/MERN-SHOP/blob/37315664d1a0a3ffa859ff75b53c1329c5bb772c/examples/mern-shop.gif)
+
+## Deployment
+
+https://mern-shop-ucla.herokuapp.com/
